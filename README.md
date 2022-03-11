@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+## I'm Andre, A Mechatronics Engineering Student at the University of British Columbia
+
+![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreCox&count_private=true)
+![Andre's Github Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreCox&theme=default)
+
 
 <!--
 **AndreCox/AndreCox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
