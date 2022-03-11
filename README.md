@@ -23,6 +23,8 @@
 - 🔭 Working to build full stack applications
 - 💻 Favorite languages are Typescript and Rust
 
+
+## ⚙️ What I'm Working on Right Now
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=555257331559038977)
 
 <!--
