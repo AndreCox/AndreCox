@@ -5,7 +5,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=AndreCox&count_private=true"/>
  
  ## 🔨 My Helpful Projects
- - ![ASCII TEXT GENERATOR](https://andrecox.github.io/ASCII-Text-Generator/)
+ - [ASCII TEXT GENERATOR](https://andrecox.github.io/ASCII-Text-Generator/)
 
 ## 🔧 Technologies & Tools
 
