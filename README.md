@@ -5,6 +5,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=AndreCox&count_private=true"/>
  
  ## 🔨 My Helpful Projects
+ - [Next Gen](https://github.com/AndreCox/next-gen) A CLI for creating projects with my Next Template
  - [Next Template](https://github.com/andrecox/next-template) A configured template for cross platform development!
  - [Pi Baker](https://github.com/AndreCox/PIBaker) Create Custom Raspberry Pi images easily.
  - [ASCII TEXT GENERATOR](https://andrecox.github.io/ASCII-Text-Generator/) Generate ASCII art for your console programs and for fun!
