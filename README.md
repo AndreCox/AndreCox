@@ -6,6 +6,7 @@
  
  ## 🔨 My Helpful Projects
  - [Next Gen](https://github.com/AndreCox/next-gen) A CLI for creating projects with my Next Template
+ - [PS3 Rich Presence]([https://github.com/AndreCox/ps3-rich-presence-rusty](https://github.com/AndreCox/PS3-Rich-Presence-for-Discord-Rusty)) A program for showing PS3 games in Discord
  - [Next Template](https://github.com/andrecox/next-template) A configured template for cross platform development!
  - [Pi Baker](https://github.com/AndreCox/PIBaker) Create Custom Raspberry Pi images easily.
  - [ASCII TEXT GENERATOR](https://andrecox.github.io/ASCII-Text-Generator/) Generate ASCII art for your console programs and for fun!
