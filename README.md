@@ -1,4 +1,3 @@
-![visitor badge](https://page-views.glitch.me/badge?page_id=AndreCox.visitor-badge)
 # I'm Andre, A Mechatronics Engineering Student 🤖
 
 
