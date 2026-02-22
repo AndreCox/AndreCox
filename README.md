@@ -4,6 +4,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=AndreCox&count_private=true"/>
  
  ## 🔨 My Helpful Projects
+ - [KiCad Localizer](https://github.com/AndreCox/kicad_localizer) A CLI for localizing KiCad Projects with global dependencies (3D files, symbols, and footprints)
  - [Next Gen](https://github.com/AndreCox/next-gen) A CLI for creating projects with my Next Template
  - [PS3 Rich Presence](https://github.com/AndreCox/PS3-Rich-Presence-for-Discord-Rusty) A program for showing PS3 games in Discord
  - [Next Template](https://github.com/andrecox/next-template) A configured template for cross platform development!
